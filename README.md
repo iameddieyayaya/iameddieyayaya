@@ -1,6 +1,6 @@
 <p align='center'>Hey, I'm Eddie! 👋</p>
 <p align='justify'>
-    I'm a full stack software engineer with a background in audio engineering. I'm passionate about tech and learning. I'm based in the Chula Vista and I'm looking for full-time opportunities to join a team of cool people, working on interesting problems. I enjoy programming in JavaScript, but I'm a lifelong learner always open to expanding my toolbox. I'm hardworking, meticulous, practical, adaptable, and a team player. 
+    I'm a full stack software engineer with a background in audio engineering. I'm passionate about tech and learning. I'm based in the Chula Vista and I'm looking for full-time opportunities to join a team of cool people, working on interesting problems. I enjoy programming in JavaScript, but I'm language agnostic, open to expanding my toolbox. I'm hardworking, meticulous, practical, adaptable, and a team player. 
 </p>    
 <p align='center'>• • •</p> 
 <p align='center'>Reach out! I'm happy to connect with others in the space.</p>
